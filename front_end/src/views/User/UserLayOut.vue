@@ -25,7 +25,8 @@
     <div class="content-identify" style="background-color: #fff">
       <div class="paddingbox">
         <p style="font-size: 20px;color: #000;text-align: center">电话号码归属地查询注意事项</p>
-        <p style="font-size: 16px;color: #999;text-align: center;margin-top: 16px">本功能可以查询手机号码、固定电话号码、国际长途电话、区号</p>
+        <p style="font-size: 16px;color: #999;text-align: center;margin-top: 16px">
+          本功能可以查询手机号码、固定电话号码、国际长途电话、区号</p>
         <ul style="margin: 50px 0 0 0">
           <li>
             <i class="disc"></i>
